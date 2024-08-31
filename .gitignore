@@ -4,3 +4,4 @@ __pycache__/
 *.xlsx
 *.csv
 html/*.json
+html_chain/

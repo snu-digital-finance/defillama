@@ -1,0 +1,4026 @@
+{
+    "props": {
+        "pageProps": {
+            "chain": "X Layer",
+            "chainTokenInfo": {
+                "gecko_id": "x-layer",
+                "tvl": 9546825.278897615,
+                "tokenSymbol": null,
+                "cmcId": null,
+                "name": "X Layer",
+                "chainId": null,
+                "error": "coin not found"
+            },
+            "chainTreasury": null,
+            "chainAssetsChart": {
+                "message": "column \"x%20layer\" does not exist"
+            },
+            "chainRaises": [],
+            "chainAssets": null,
+            "chainsSet": [
+                "Ethereum",
+                "Tron",
+                "Solana",
+                "BSC",
+                "Arbitrum",
+                "Base",
+                "Avalanche",
+                "Polygon",
+                "Blast",
+                "Scroll",
+                "Hyperliquid",
+                "Sui",
+                "Optimism",
+                "Bitcoin",
+                "Linea",
+                "Mantle",
+                "Mode",
+                "zkLink Nova",
+                "Aptos",
+                "Cronos",
+                "Bitlayer",
+                "TON",
+                "CORE",
+                "Thorchain",
+                "PulseChain",
+                "Gnosis",
+                "Starknet",
+                "Near",
+                "Cardano",
+                "BSquared",
+                "Rootstock",
+                "dYdX",
+                "Kava",
+                "Merlin",
+                "Ronin",
+                "EOS",
+                "Mixin",
+                "MultiversX",
+                "Sei",
+                "Fusion",
+                "Osmosis",
+                "Stacks",
+                "Celo",
+                "Kaia",
+                "Fantom",
+                "ZKsync Era",
+                "Algorand",
+                "Filecoin",
+                "WEMIX3.0",
+                "ICP",
+                "BounceBit",
+                "Hedera",
+                "Tezos",
+                "Injective",
+                "Metis",
+                "Hydration",
+                "Manta",
+                "Telos",
+                "K2",
+                "Reya Network",
+                "BOB",
+                "DefiChain",
+                "Fraxtal",
+                "NEO",
+                "Kujira",
+                "Conflux",
+                "Neutron",
+                "Radix",
+                "Astar",
+                "opBNB",
+                "Moonbeam",
+                "MAP Protocol",
+                "Flow",
+                "Bifrost Network",
+                "Mayachain",
+                "Cronos zkEVM",
+                "Aurora",
+                "Bitcoincash",
+                "Polygon zkEVM",
+                "XRPL",
+                "Immutable zkEVM",
+                "Flare",
+                "Taiko",
+                "Secret",
+                "Canto",
+                "Stellar",
+                "Waves",
+                "Icon",
+                "Venom",
+                "Chiliz",
+                "FSC",
+                "X Layer",
+                "Alephium",
+                "Bifrost",
+                "EOS EVM",
+                "XDC",
+                "Proton",
+                "Ontology",
+                "Onus",
+                "Carbon",
+                "IoTeX",
+                "Oraichain",
+                "DFS Network",
+                "Astar zkEVM",
+                "Vite",
+                "smartBCH",
+                "Moonriver",
+                "Parallel",
+                "GodwokenV1",
+                "Nuls",
+                "Ergo",
+                "Wanchain",
+                "re.al",
+                "Doge",
+                "Dexalot",
+                "ZetaChain",
+                "Vision",
+                "Litecoin",
+                "Interlay",
+                "Elastos",
+                "DFK",
+                "Terra2",
+                "Persistence One",
+                "Archway",
+                "Beam",
+                "ThunderCore",
+                "Meter",
+                "FunctionX",
+                "UX",
+                "Horizen EON",
+                "Acala",
+                "Everscale",
+                "BEVM",
+                "Bahamut",
+                "Dogechain",
+                "aelf",
+                "Oasis Sapphire",
+                "Terra Classic",
+                "Kroma",
+                "Zkfair",
+                "Boba",
+                "IOTA EVM",
+                "Theta",
+                "OKTChain",
+                "DeFiVerse",
+                "Harmony",
+                "Hydra",
+                "Zilliqa",
+                "Wax",
+                "XPLA",
+                "Songbird",
+                "KCC",
+                "Ultron",
+                "Neon",
+                "Fuse",
+                "Arbitrum Nova",
+                "Shibarium",
+                "Equilibrium",
+                "ShimmerEVM",
+                "Nolus",
+                "HAQQ",
+                "Oasys",
+                "Velas",
+                "Rangers",
+                "Bitrock",
+                "AirDAO",
+                "Milkomeda C1",
+                "CosmosHub",
+                "RENEC",
+                "Oasis Emerald",
+                "Xai",
+                "Naka",
+                "SatoshiVM",
+                "Elysium",
+                "Evmos",
+                "Energi",
+                "LightLink",
+                "Obyte",
+                "Sanko",
+                "Q Protocol",
+                "Starcoin",
+                "Rollux",
+                "Concordium",
+                "VeChain",
+                "NOS",
+                "Bostrom",
+                "Zeniq",
+                "Degen",
+                "Zora",
+                "Heco",
+                "Saakuru",
+                "Bittorrent",
+                "SKALE Europa",
+                "EthereumClassic",
+                "Juno",
+                "Boba_Bnb",
+                "CSC",
+                "Chihuahua",
+                "Migaloo",
+                "Kintsugi",
+                "ENULS",
+                "DeFiChain EVM",
+                "Heiko",
+                "Kadena",
+                "Karura",
+                "Crab",
+                "Dash",
+                "Sora",
+                "Aura Network",
+                "EnergyWeb",
+                "inEVM",
+                "Joltify",
+                "Kardia",
+                "Mint",
+                "LaChain Network",
+                "Viction",
+                "Etherlink",
+                "Manta Atlantic",
+                "Nahmii",
+                "Step",
+                "Ancient8",
+                "Tombchain",
+                "Libre",
+                "Massa",
+                "Stargaze",
+                "Genesys",
+                "MVC",
+                "Polkadex",
+                "ALV",
+                "Godwoken",
+                "Loop",
+                "AILayer",
+                "Comdex",
+                "MEER",
+                "Cyber",
+                "Shiden",
+                "Areon Network",
+                "EthereumPoW",
+                "Planq",
+                "Grove",
+                "Newton",
+                "Endurance",
+                "Polkadot",
+                "Findora",
+                "RSS3",
+                "Crescent",
+                "SXnetwork",
+                "Syscoin",
+                "Goerli",
+                "JBC",
+                "REI",
+                "ETHF",
+                "Cube",
+                "Darwinia",
+                "Callisto",
+                "GoChain",
+                "Lachain",
+                "MultiVAC",
+                "HPB",
+                "Sifchain",
+                "Bitgert",
+                "Tenet",
+                "Bitnet",
+                "OntologyEVM",
+                "REIchain",
+                "Ham",
+                "Aeternity",
+                "Milkomeda A1",
+                "Rari",
+                "Lung",
+                "Palm",
+                "Pego",
+                "DSC",
+                "Bitkub Chain",
+                "Celestia",
+                "BandChain",
+                "Dymension",
+                "Sommelier",
+                "Stride",
+                "Dexit",
+                "Omax",
+                "Kusama",
+                "Boba_Avax",
+                "Stafi",
+                "OXFUN",
+                "Empire",
+                "Hoo",
+                "Nibiru",
+                "Echelon",
+                "Quicksilver",
+                "CLV",
+                "Pokt",
+                "ZKsync Lite",
+                "CMP",
+                "Nova Network",
+                "Genshiro",
+                "Lamden",
+                "Polis",
+                "ZYX",
+                "Ubiq",
+                "Coti",
+                "Kekchain",
+                "MUUCHAIN",
+                "Tlchain",
+                "Bitindi",
+                "Bone",
+                "Lukso"
+            ],
+            "chainOptions": [
+                {
+                    "label": "All",
+                    "to": "/"
+                },
+                {
+                    "label": "Ethereum",
+                    "to": "/chain/Ethereum"
+                },
+                {
+                    "label": "Tron",
+                    "to": "/chain/Tron"
+                },
+                {
+                    "label": "Solana",
+                    "to": "/chain/Solana"
+                },
+                {
+                    "label": "BSC",
+                    "to": "/chain/BSC"
+                },
+                {
+                    "label": "Arbitrum",
+                    "to": "/chain/Arbitrum"
+                },
+                {
+                    "label": "Base",
+                    "to": "/chain/Base"
+                },
+                {
+                    "label": "Avalanche",
+                    "to": "/chain/Avalanche"
+                },
+                {
+                    "label": "Polygon",
+                    "to": "/chain/Polygon"
+                },
+                {
+                    "label": "Blast",
+                    "to": "/chain/Blast"
+                },
+                {
+                    "label": "Scroll",
+                    "to": "/chain/Scroll"
+                },
+                {
+                    "label": "Hyperliquid",
+                    "to": "/chain/Hyperliquid"
+                },
+                {
+                    "label": "Sui",
+                    "to": "/chain/Sui"
+                },
+                {
+                    "label": "Optimism",
+                    "to": "/chain/Optimism"
+                },
+                {
+                    "label": "Bitcoin",
+                    "to": "/chain/Bitcoin"
+                },
+                {
+                    "label": "Linea",
+                    "to": "/chain/Linea"
+                },
+                {
+                    "label": "Mantle",
+                    "to": "/chain/Mantle"
+                },
+                {
+                    "label": "Mode",
+                    "to": "/chain/Mode"
+                },
+                {
+                    "label": "zkLink Nova",
+                    "to": "/chain/zkLink Nova"
+                },
+                {
+                    "label": "Aptos",
+                    "to": "/chain/Aptos"
+                },
+                {
+                    "label": "Cronos",
+                    "to": "/chain/Cronos"
+                },
+                {
+                    "label": "Bitlayer",
+                    "to": "/chain/Bitlayer"
+                },
+                {
+                    "label": "TON",
+                    "to": "/chain/TON"
+                },
+                {
+                    "label": "CORE",
+                    "to": "/chain/CORE"
+                },
+                {
+                    "label": "Thorchain",
+                    "to": "/chain/Thorchain"
+                },
+                {
+                    "label": "PulseChain",
+                    "to": "/chain/PulseChain"
+                },
+                {
+                    "label": "Gnosis",
+                    "to": "/chain/Gnosis"
+                },
+                {
+                    "label": "Starknet",
+                    "to": "/chain/Starknet"
+                },
+                {
+                    "label": "Near",
+                    "to": "/chain/Near"
+                },
+                {
+                    "label": "Cardano",
+                    "to": "/chain/Cardano"
+                },
+                {
+                    "label": "BSquared",
+                    "to": "/chain/BSquared"
+                },
+                {
+                    "label": "Rootstock",
+                    "to": "/chain/Rootstock"
+                },
+                {
+                    "label": "dYdX",
+                    "to": "/chain/dYdX"
+                },
+                {
+                    "label": "Kava",
+                    "to": "/chain/Kava"
+                },
+                {
+                    "label": "Merlin",
+                    "to": "/chain/Merlin"
+                },
+                {
+                    "label": "Ronin",
+                    "to": "/chain/Ronin"
+                },
+                {
+                    "label": "EOS",
+                    "to": "/chain/EOS"
+                },
+                {
+                    "label": "Mixin",
+                    "to": "/chain/Mixin"
+                },
+                {
+                    "label": "MultiversX",
+                    "to": "/chain/MultiversX"
+                },
+                {
+                    "label": "Sei",
+                    "to": "/chain/Sei"
+                },
+                {
+                    "label": "Fusion",
+                    "to": "/chain/Fusion"
+                },
+                {
+                    "label": "Osmosis",
+                    "to": "/chain/Osmosis"
+                },
+                {
+                    "label": "Stacks",
+                    "to": "/chain/Stacks"
+                },
+                {
+                    "label": "Celo",
+                    "to": "/chain/Celo"
+                },
+                {
+                    "label": "Kaia",
+                    "to": "/chain/Kaia"
+                },
+                {
+                    "label": "Fantom",
+                    "to": "/chain/Fantom"
+                },
+                {
+                    "label": "ZKsync Era",
+                    "to": "/chain/ZKsync Era"
+                },
+                {
+                    "label": "Algorand",
+                    "to": "/chain/Algorand"
+                },
+                {
+                    "label": "Filecoin",
+                    "to": "/chain/Filecoin"
+                },
+                {
+                    "label": "WEMIX3.0",
+                    "to": "/chain/WEMIX3.0"
+                },
+                {
+                    "label": "ICP",
+                    "to": "/chain/ICP"
+                },
+                {
+                    "label": "BounceBit",
+                    "to": "/chain/BounceBit"
+                },
+                {
+                    "label": "Hedera",
+                    "to": "/chain/Hedera"
+                },
+                {
+                    "label": "Tezos",
+                    "to": "/chain/Tezos"
+                },
+                {
+                    "label": "Injective",
+                    "to": "/chain/Injective"
+                },
+                {
+                    "label": "Metis",
+                    "to": "/chain/Metis"
+                },
+                {
+                    "label": "Hydration",
+                    "to": "/chain/Hydration"
+                },
+                {
+                    "label": "Manta",
+                    "to": "/chain/Manta"
+                },
+                {
+                    "label": "Telos",
+                    "to": "/chain/Telos"
+                },
+                {
+                    "label": "K2",
+                    "to": "/chain/K2"
+                },
+                {
+                    "label": "Reya Network",
+                    "to": "/chain/Reya Network"
+                },
+                {
+                    "label": "BOB",
+                    "to": "/chain/BOB"
+                },
+                {
+                    "label": "DefiChain",
+                    "to": "/chain/DefiChain"
+                },
+                {
+                    "label": "Fraxtal",
+                    "to": "/chain/Fraxtal"
+                },
+                {
+                    "label": "NEO",
+                    "to": "/chain/NEO"
+                },
+                {
+                    "label": "Kujira",
+                    "to": "/chain/Kujira"
+                },
+                {
+                    "label": "Conflux",
+                    "to": "/chain/Conflux"
+                },
+                {
+                    "label": "Neutron",
+                    "to": "/chain/Neutron"
+                },
+                {
+                    "label": "Radix",
+                    "to": "/chain/Radix"
+                },
+                {
+                    "label": "Astar",
+                    "to": "/chain/Astar"
+                },
+                {
+                    "label": "opBNB",
+                    "to": "/chain/opBNB"
+                },
+                {
+                    "label": "Moonbeam",
+                    "to": "/chain/Moonbeam"
+                },
+                {
+                    "label": "MAP Protocol",
+                    "to": "/chain/MAP Protocol"
+                },
+                {
+                    "label": "Flow",
+                    "to": "/chain/Flow"
+                },
+                {
+                    "label": "Bifrost Network",
+                    "to": "/chain/Bifrost Network"
+                },
+                {
+                    "label": "Mayachain",
+                    "to": "/chain/Mayachain"
+                },
+                {
+                    "label": "Cronos zkEVM",
+                    "to": "/chain/Cronos zkEVM"
+                },
+                {
+                    "label": "Aurora",
+                    "to": "/chain/Aurora"
+                },
+                {
+                    "label": "Bitcoincash",
+                    "to": "/chain/Bitcoincash"
+                },
+                {
+                    "label": "Polygon zkEVM",
+                    "to": "/chain/Polygon zkEVM"
+                },
+                {
+                    "label": "XRPL",
+                    "to": "/chain/XRPL"
+                },
+                {
+                    "label": "Immutable zkEVM",
+                    "to": "/chain/Immutable zkEVM"
+                },
+                {
+                    "label": "Flare",
+                    "to": "/chain/Flare"
+                },
+                {
+                    "label": "Taiko",
+                    "to": "/chain/Taiko"
+                },
+                {
+                    "label": "Secret",
+                    "to": "/chain/Secret"
+                },
+                {
+                    "label": "Canto",
+                    "to": "/chain/Canto"
+                },
+                {
+                    "label": "Stellar",
+                    "to": "/chain/Stellar"
+                },
+                {
+                    "label": "Waves",
+                    "to": "/chain/Waves"
+                },
+                {
+                    "label": "Icon",
+                    "to": "/chain/Icon"
+                },
+                {
+                    "label": "Venom",
+                    "to": "/chain/Venom"
+                },
+                {
+                    "label": "Chiliz",
+                    "to": "/chain/Chiliz"
+                },
+                {
+                    "label": "FSC",
+                    "to": "/chain/FSC"
+                },
+                {
+                    "label": "X Layer",
+                    "to": "/chain/X Layer"
+                },
+                {
+                    "label": "Alephium",
+                    "to": "/chain/Alephium"
+                },
+                {
+                    "label": "Bifrost",
+                    "to": "/chain/Bifrost"
+                },
+                {
+                    "label": "EOS EVM",
+                    "to": "/chain/EOS EVM"
+                },
+                {
+                    "label": "XDC",
+                    "to": "/chain/XDC"
+                },
+                {
+                    "label": "Proton",
+                    "to": "/chain/Proton"
+                },
+                {
+                    "label": "Ontology",
+                    "to": "/chain/Ontology"
+                },
+                {
+                    "label": "Onus",
+                    "to": "/chain/Onus"
+                },
+                {
+                    "label": "Carbon",
+                    "to": "/chain/Carbon"
+                },
+                {
+                    "label": "IoTeX",
+                    "to": "/chain/IoTeX"
+                },
+                {
+                    "label": "Oraichain",
+                    "to": "/chain/Oraichain"
+                },
+                {
+                    "label": "DFS Network",
+                    "to": "/chain/DFS Network"
+                },
+                {
+                    "label": "Astar zkEVM",
+                    "to": "/chain/Astar zkEVM"
+                },
+                {
+                    "label": "Vite",
+                    "to": "/chain/Vite"
+                },
+                {
+                    "label": "smartBCH",
+                    "to": "/chain/smartBCH"
+                },
+                {
+                    "label": "Moonriver",
+                    "to": "/chain/Moonriver"
+                },
+                {
+                    "label": "Parallel",
+                    "to": "/chain/Parallel"
+                },
+                {
+                    "label": "GodwokenV1",
+                    "to": "/chain/GodwokenV1"
+                },
+                {
+                    "label": "Nuls",
+                    "to": "/chain/Nuls"
+                },
+                {
+                    "label": "Ergo",
+                    "to": "/chain/Ergo"
+                },
+                {
+                    "label": "Wanchain",
+                    "to": "/chain/Wanchain"
+                },
+                {
+                    "label": "re.al",
+                    "to": "/chain/re.al"
+                },
+                {
+                    "label": "Doge",
+                    "to": "/chain/Doge"
+                },
+                {
+                    "label": "Dexalot",
+                    "to": "/chain/Dexalot"
+                },
+                {
+                    "label": "ZetaChain",
+                    "to": "/chain/ZetaChain"
+                },
+                {
+                    "label": "Vision",
+                    "to": "/chain/Vision"
+                },
+                {
+                    "label": "Litecoin",
+                    "to": "/chain/Litecoin"
+                },
+                {
+                    "label": "Interlay",
+                    "to": "/chain/Interlay"
+                },
+                {
+                    "label": "Elastos",
+                    "to": "/chain/Elastos"
+                },
+                {
+                    "label": "DFK",
+                    "to": "/chain/DFK"
+                },
+                {
+                    "label": "Terra2",
+                    "to": "/chain/Terra2"
+                },
+                {
+                    "label": "Persistence One",
+                    "to": "/chain/Persistence One"
+                },
+                {
+                    "label": "Archway",
+                    "to": "/chain/Archway"
+                },
+                {
+                    "label": "Beam",
+                    "to": "/chain/Beam"
+                },
+                {
+                    "label": "ThunderCore",
+                    "to": "/chain/ThunderCore"
+                },
+                {
+                    "label": "Meter",
+                    "to": "/chain/Meter"
+                },
+                {
+                    "label": "FunctionX",
+                    "to": "/chain/FunctionX"
+                },
+                {
+                    "label": "UX",
+                    "to": "/chain/UX"
+                },
+                {
+                    "label": "Horizen EON",
+                    "to": "/chain/Horizen EON"
+                },
+                {
+                    "label": "Acala",
+                    "to": "/chain/Acala"
+                },
+                {
+                    "label": "Everscale",
+                    "to": "/chain/Everscale"
+                },
+                {
+                    "label": "BEVM",
+                    "to": "/chain/BEVM"
+                },
+                {
+                    "label": "Bahamut",
+                    "to": "/chain/Bahamut"
+                },
+                {
+                    "label": "Dogechain",
+                    "to": "/chain/Dogechain"
+                },
+                {
+                    "label": "aelf",
+                    "to": "/chain/aelf"
+                },
+                {
+                    "label": "Oasis Sapphire",
+                    "to": "/chain/Oasis Sapphire"
+                },
+                {
+                    "label": "Terra Classic",
+                    "to": "/chain/Terra Classic"
+                },
+                {
+                    "label": "Kroma",
+                    "to": "/chain/Kroma"
+                },
+                {
+                    "label": "Zkfair",
+                    "to": "/chain/Zkfair"
+                },
+                {
+                    "label": "Boba",
+                    "to": "/chain/Boba"
+                },
+                {
+                    "label": "IOTA EVM",
+                    "to": "/chain/IOTA EVM"
+                },
+                {
+                    "label": "Theta",
+                    "to": "/chain/Theta"
+                },
+                {
+                    "label": "OKTChain",
+                    "to": "/chain/OKTChain"
+                },
+                {
+                    "label": "DeFiVerse",
+                    "to": "/chain/DeFiVerse"
+                },
+                {
+                    "label": "Harmony",
+                    "to": "/chain/Harmony"
+                },
+                {
+                    "label": "Hydra",
+                    "to": "/chain/Hydra"
+                },
+                {
+                    "label": "Zilliqa",
+                    "to": "/chain/Zilliqa"
+                },
+                {
+                    "label": "Wax",
+                    "to": "/chain/Wax"
+                },
+                {
+                    "label": "XPLA",
+                    "to": "/chain/XPLA"
+                },
+                {
+                    "label": "Songbird",
+                    "to": "/chain/Songbird"
+                },
+                {
+                    "label": "KCC",
+                    "to": "/chain/KCC"
+                },
+                {
+                    "label": "Ultron",
+                    "to": "/chain/Ultron"
+                },
+                {
+                    "label": "Neon",
+                    "to": "/chain/Neon"
+                },
+                {
+                    "label": "Fuse",
+                    "to": "/chain/Fuse"
+                },
+                {
+                    "label": "Arbitrum Nova",
+                    "to": "/chain/Arbitrum Nova"
+                },
+                {
+                    "label": "Shibarium",
+                    "to": "/chain/Shibarium"
+                },
+                {
+                    "label": "Equilibrium",
+                    "to": "/chain/Equilibrium"
+                },
+                {
+                    "label": "ShimmerEVM",
+                    "to": "/chain/ShimmerEVM"
+                },
+                {
+                    "label": "Nolus",
+                    "to": "/chain/Nolus"
+                },
+                {
+                    "label": "HAQQ",
+                    "to": "/chain/HAQQ"
+                },
+                {
+                    "label": "Oasys",
+                    "to": "/chain/Oasys"
+                },
+                {
+                    "label": "Velas",
+                    "to": "/chain/Velas"
+                },
+                {
+                    "label": "Rangers",
+                    "to": "/chain/Rangers"
+                },
+                {
+                    "label": "Bitrock",
+                    "to": "/chain/Bitrock"
+                },
+                {
+                    "label": "AirDAO",
+                    "to": "/chain/AirDAO"
+                },
+                {
+                    "label": "Milkomeda C1",
+                    "to": "/chain/Milkomeda C1"
+                },
+                {
+                    "label": "CosmosHub",
+                    "to": "/chain/CosmosHub"
+                },
+                {
+                    "label": "RENEC",
+                    "to": "/chain/RENEC"
+                },
+                {
+                    "label": "Oasis Emerald",
+                    "to": "/chain/Oasis Emerald"
+                },
+                {
+                    "label": "Xai",
+                    "to": "/chain/Xai"
+                },
+                {
+                    "label": "Naka",
+                    "to": "/chain/Naka"
+                },
+                {
+                    "label": "SatoshiVM",
+                    "to": "/chain/SatoshiVM"
+                },
+                {
+                    "label": "Elysium",
+                    "to": "/chain/Elysium"
+                },
+                {
+                    "label": "Evmos",
+                    "to": "/chain/Evmos"
+                },
+                {
+                    "label": "Energi",
+                    "to": "/chain/Energi"
+                },
+                {
+                    "label": "LightLink",
+                    "to": "/chain/LightLink"
+                },
+                {
+                    "label": "Obyte",
+                    "to": "/chain/Obyte"
+                },
+                {
+                    "label": "Sanko",
+                    "to": "/chain/Sanko"
+                },
+                {
+                    "label": "Q Protocol",
+                    "to": "/chain/Q Protocol"
+                },
+                {
+                    "label": "Starcoin",
+                    "to": "/chain/Starcoin"
+                },
+                {
+                    "label": "Rollux",
+                    "to": "/chain/Rollux"
+                },
+                {
+                    "label": "Concordium",
+                    "to": "/chain/Concordium"
+                },
+                {
+                    "label": "VeChain",
+                    "to": "/chain/VeChain"
+                },
+                {
+                    "label": "NOS",
+                    "to": "/chain/NOS"
+                },
+                {
+                    "label": "Bostrom",
+                    "to": "/chain/Bostrom"
+                },
+                {
+                    "label": "Zeniq",
+                    "to": "/chain/Zeniq"
+                },
+                {
+                    "label": "Degen",
+                    "to": "/chain/Degen"
+                },
+                {
+                    "label": "Zora",
+                    "to": "/chain/Zora"
+                },
+                {
+                    "label": "Heco",
+                    "to": "/chain/Heco"
+                },
+                {
+                    "label": "Saakuru",
+                    "to": "/chain/Saakuru"
+                },
+                {
+                    "label": "Bittorrent",
+                    "to": "/chain/Bittorrent"
+                },
+                {
+                    "label": "SKALE Europa",
+                    "to": "/chain/SKALE Europa"
+                },
+                {
+                    "label": "EthereumClassic",
+                    "to": "/chain/EthereumClassic"
+                },
+                {
+                    "label": "Juno",
+                    "to": "/chain/Juno"
+                },
+                {
+                    "label": "Boba_Bnb",
+                    "to": "/chain/Boba_Bnb"
+                },
+                {
+                    "label": "CSC",
+                    "to": "/chain/CSC"
+                },
+                {
+                    "label": "Chihuahua",
+                    "to": "/chain/Chihuahua"
+                },
+                {
+                    "label": "Migaloo",
+                    "to": "/chain/Migaloo"
+                },
+                {
+                    "label": "Kintsugi",
+                    "to": "/chain/Kintsugi"
+                },
+                {
+                    "label": "ENULS",
+                    "to": "/chain/ENULS"
+                },
+                {
+                    "label": "DeFiChain EVM",
+                    "to": "/chain/DeFiChain EVM"
+                },
+                {
+                    "label": "Heiko",
+                    "to": "/chain/Heiko"
+                },
+                {
+                    "label": "Kadena",
+                    "to": "/chain/Kadena"
+                },
+                {
+                    "label": "Karura",
+                    "to": "/chain/Karura"
+                },
+                {
+                    "label": "Crab",
+                    "to": "/chain/Crab"
+                },
+                {
+                    "label": "Dash",
+                    "to": "/chain/Dash"
+                },
+                {
+                    "label": "Sora",
+                    "to": "/chain/Sora"
+                },
+                {
+                    "label": "Aura Network",
+                    "to": "/chain/Aura Network"
+                },
+                {
+                    "label": "EnergyWeb",
+                    "to": "/chain/EnergyWeb"
+                },
+                {
+                    "label": "inEVM",
+                    "to": "/chain/inEVM"
+                },
+                {
+                    "label": "Joltify",
+                    "to": "/chain/Joltify"
+                },
+                {
+                    "label": "Kardia",
+                    "to": "/chain/Kardia"
+                },
+                {
+                    "label": "Mint",
+                    "to": "/chain/Mint"
+                },
+                {
+                    "label": "LaChain Network",
+                    "to": "/chain/LaChain Network"
+                },
+                {
+                    "label": "Viction",
+                    "to": "/chain/Viction"
+                },
+                {
+                    "label": "Etherlink",
+                    "to": "/chain/Etherlink"
+                },
+                {
+                    "label": "Manta Atlantic",
+                    "to": "/chain/Manta Atlantic"
+                },
+                {
+                    "label": "Nahmii",
+                    "to": "/chain/Nahmii"
+                },
+                {
+                    "label": "Step",
+                    "to": "/chain/Step"
+                },
+                {
+                    "label": "Ancient8",
+                    "to": "/chain/Ancient8"
+                },
+                {
+                    "label": "Tombchain",
+                    "to": "/chain/Tombchain"
+                },
+                {
+                    "label": "Libre",
+                    "to": "/chain/Libre"
+                },
+                {
+                    "label": "Massa",
+                    "to": "/chain/Massa"
+                },
+                {
+                    "label": "Stargaze",
+                    "to": "/chain/Stargaze"
+                },
+                {
+                    "label": "Genesys",
+                    "to": "/chain/Genesys"
+                },
+                {
+                    "label": "MVC",
+                    "to": "/chain/MVC"
+                },
+                {
+                    "label": "Polkadex",
+                    "to": "/chain/Polkadex"
+                },
+                {
+                    "label": "ALV",
+                    "to": "/chain/ALV"
+                },
+                {
+                    "label": "Godwoken",
+                    "to": "/chain/Godwoken"
+                },
+                {
+                    "label": "Loop",
+                    "to": "/chain/Loop"
+                },
+                {
+                    "label": "AILayer",
+                    "to": "/chain/AILayer"
+                },
+                {
+                    "label": "Comdex",
+                    "to": "/chain/Comdex"
+                },
+                {
+                    "label": "MEER",
+                    "to": "/chain/MEER"
+                },
+                {
+                    "label": "Cyber",
+                    "to": "/chain/Cyber"
+                },
+                {
+                    "label": "Shiden",
+                    "to": "/chain/Shiden"
+                },
+                {
+                    "label": "Areon Network",
+                    "to": "/chain/Areon Network"
+                },
+                {
+                    "label": "EthereumPoW",
+                    "to": "/chain/EthereumPoW"
+                },
+                {
+                    "label": "Planq",
+                    "to": "/chain/Planq"
+                },
+                {
+                    "label": "Grove",
+                    "to": "/chain/Grove"
+                },
+                {
+                    "label": "Newton",
+                    "to": "/chain/Newton"
+                },
+                {
+                    "label": "Endurance",
+                    "to": "/chain/Endurance"
+                },
+                {
+                    "label": "Polkadot",
+                    "to": "/chain/Polkadot"
+                },
+                {
+                    "label": "Findora",
+                    "to": "/chain/Findora"
+                },
+                {
+                    "label": "RSS3",
+                    "to": "/chain/RSS3"
+                },
+                {
+                    "label": "Crescent",
+                    "to": "/chain/Crescent"
+                },
+                {
+                    "label": "SXnetwork",
+                    "to": "/chain/SXnetwork"
+                },
+                {
+                    "label": "Syscoin",
+                    "to": "/chain/Syscoin"
+                },
+                {
+                    "label": "Goerli",
+                    "to": "/chain/Goerli"
+                },
+                {
+                    "label": "JBC",
+                    "to": "/chain/JBC"
+                },
+                {
+                    "label": "REI",
+                    "to": "/chain/REI"
+                },
+                {
+                    "label": "ETHF",
+                    "to": "/chain/ETHF"
+                },
+                {
+                    "label": "Cube",
+                    "to": "/chain/Cube"
+                },
+                {
+                    "label": "Darwinia",
+                    "to": "/chain/Darwinia"
+                },
+                {
+                    "label": "Callisto",
+                    "to": "/chain/Callisto"
+                },
+                {
+                    "label": "GoChain",
+                    "to": "/chain/GoChain"
+                },
+                {
+                    "label": "Lachain",
+                    "to": "/chain/Lachain"
+                },
+                {
+                    "label": "MultiVAC",
+                    "to": "/chain/MultiVAC"
+                },
+                {
+                    "label": "HPB",
+                    "to": "/chain/HPB"
+                },
+                {
+                    "label": "Sifchain",
+                    "to": "/chain/Sifchain"
+                },
+                {
+                    "label": "Bitgert",
+                    "to": "/chain/Bitgert"
+                },
+                {
+                    "label": "Tenet",
+                    "to": "/chain/Tenet"
+                },
+                {
+                    "label": "Bitnet",
+                    "to": "/chain/Bitnet"
+                },
+                {
+                    "label": "OntologyEVM",
+                    "to": "/chain/OntologyEVM"
+                },
+                {
+                    "label": "REIchain",
+                    "to": "/chain/REIchain"
+                },
+                {
+                    "label": "Ham",
+                    "to": "/chain/Ham"
+                },
+                {
+                    "label": "Aeternity",
+                    "to": "/chain/Aeternity"
+                },
+                {
+                    "label": "Milkomeda A1",
+                    "to": "/chain/Milkomeda A1"
+                },
+                {
+                    "label": "Rari",
+                    "to": "/chain/Rari"
+                },
+                {
+                    "label": "Lung",
+                    "to": "/chain/Lung"
+                },
+                {
+                    "label": "Palm",
+                    "to": "/chain/Palm"
+                },
+                {
+                    "label": "Pego",
+                    "to": "/chain/Pego"
+                },
+                {
+                    "label": "DSC",
+                    "to": "/chain/DSC"
+                },
+                {
+                    "label": "Bitkub Chain",
+                    "to": "/chain/Bitkub Chain"
+                },
+                {
+                    "label": "Celestia",
+                    "to": "/chain/Celestia"
+                },
+                {
+                    "label": "BandChain",
+                    "to": "/chain/BandChain"
+                },
+                {
+                    "label": "Dymension",
+                    "to": "/chain/Dymension"
+                },
+                {
+                    "label": "Sommelier",
+                    "to": "/chain/Sommelier"
+                },
+                {
+                    "label": "Stride",
+                    "to": "/chain/Stride"
+                },
+                {
+                    "label": "Dexit",
+                    "to": "/chain/Dexit"
+                },
+                {
+                    "label": "Omax",
+                    "to": "/chain/Omax"
+                },
+                {
+                    "label": "Kusama",
+                    "to": "/chain/Kusama"
+                },
+                {
+                    "label": "Boba_Avax",
+                    "to": "/chain/Boba_Avax"
+                },
+                {
+                    "label": "Stafi",
+                    "to": "/chain/Stafi"
+                },
+                {
+                    "label": "OXFUN",
+                    "to": "/chain/OXFUN"
+                },
+                {
+                    "label": "Empire",
+                    "to": "/chain/Empire"
+                },
+                {
+                    "label": "Hoo",
+                    "to": "/chain/Hoo"
+                },
+                {
+                    "label": "Nibiru",
+                    "to": "/chain/Nibiru"
+                },
+                {
+                    "label": "Echelon",
+                    "to": "/chain/Echelon"
+                },
+                {
+                    "label": "Quicksilver",
+                    "to": "/chain/Quicksilver"
+                },
+                {
+                    "label": "CLV",
+                    "to": "/chain/CLV"
+                },
+                {
+                    "label": "Pokt",
+                    "to": "/chain/Pokt"
+                },
+                {
+                    "label": "ZKsync Lite",
+                    "to": "/chain/ZKsync Lite"
+                },
+                {
+                    "label": "CMP",
+                    "to": "/chain/CMP"
+                },
+                {
+                    "label": "Nova Network",
+                    "to": "/chain/Nova Network"
+                },
+                {
+                    "label": "Genshiro",
+                    "to": "/chain/Genshiro"
+                },
+                {
+                    "label": "Lamden",
+                    "to": "/chain/Lamden"
+                },
+                {
+                    "label": "Polis",
+                    "to": "/chain/Polis"
+                },
+                {
+                    "label": "ZYX",
+                    "to": "/chain/ZYX"
+                },
+                {
+                    "label": "Ubiq",
+                    "to": "/chain/Ubiq"
+                },
+                {
+                    "label": "Coti",
+                    "to": "/chain/Coti"
+                },
+                {
+                    "label": "Kekchain",
+                    "to": "/chain/Kekchain"
+                },
+                {
+                    "label": "MUUCHAIN",
+                    "to": "/chain/MUUCHAIN"
+                },
+                {
+                    "label": "Tlchain",
+                    "to": "/chain/Tlchain"
+                },
+                {
+                    "label": "Bitindi",
+                    "to": "/chain/Bitindi"
+                },
+                {
+                    "label": "Bone",
+                    "to": "/chain/Bone"
+                },
+                {
+                    "label": "Lukso",
+                    "to": "/chain/Lukso"
+                }
+            ],
+            "protocolsList": [
+                {
+                    "symbol": "CRV",
+                    "chains": [
+                        "Ethereum",
+                        "Arbitrum",
+                        "Fraxtal",
+                        "Polygon",
+                        "Optimism",
+                        "X Layer",
+                        "Avalanche",
+                        "Gnosis",
+                        "Kava",
+                        "Base",
+                        "Celo",
+                        "BSC",
+                        "Moonbeam",
+                        "Aurora",
+                        "Fantom",
+                        "Mantle",
+                        "Harmony"
+                    ],
+                    "change_1d": 0.04480934334841393,
+                    "change_7d": 0.2852049639532118,
+                    "change_1m": -0.08676913529954737,
+                    "mcaptvl": null,
+                    "category": "Dexes",
+                    "parentProtocol": "parent#curve-finance",
+                    "defillamaId": "3",
+                    "extraTvl": {},
+                    "name": "Curve DEX",
+                    "tvl": 5002936.8691879,
+                    "tvlPrevDay": 5000696.090107073,
+                    "tvlPrevWeek": 4988708.823984724,
+                    "tvlPrevMonth": 5007281.644172561,
+                    "mcap": null,
+                    "strikeTvl": false
+                },
+                {
+                    "symbol": "QUICK",
+                    "chains": [
+                        "Polygon",
+                        "Immutable zkEVM",
+                        "Manta",
+                        "Polygon zkEVM",
+                        "Astar zkEVM",
+                        "X Layer",
+                        "Dogechain"
+                    ],
+                    "change_1d": -0.268453120489168,
+                    "change_7d": 3.657682432512413,
+                    "change_1m": -14.225116405328636,
+                    "mcaptvl": null,
+                    "category": "Dexes",
+                    "parentProtocol": "parent#quickswap",
+                    "defillamaId": "2239",
+                    "extraTvl": {},
+                    "name": "Quickswap V3",
+                    "tvl": 3095740.1387881557,
+                    "tvlPrevDay": 3104073.1199409026,
+                    "tvlPrevWeek": 2986503.331100109,
+                    "tvlPrevMonth": 3609145.252142871,
+                    "mcap": null,
+                    "strikeTvl": false
+                },
+                {
+                    "symbol": "-",
+                    "chains": [
+                        "X Layer"
+                    ],
+                    "change_1d": -0.8417346963323118,
+                    "change_7d": 3.502976449840437,
+                    "change_1m": -2.7444520303944007,
+                    "mcaptvl": null,
+                    "category": "Dexes",
+                    "defillamaId": "4512",
+                    "extraTvl": {},
+                    "name": "PotatoSwap",
+                    "tvl": 386566.979890178,
+                    "tvlPrevDay": 389848.4697229567,
+                    "tvlPrevWeek": 373483.92592121824,
+                    "tvlPrevMonth": 397475.5044421613,
+                    "mcap": null,
+                    "strikeTvl": false
+                },
+                {
+                    "symbol": "-",
+                    "chains": [
+                        "X Layer",
+                        "Cronos zkEVM",
+                        "ZetaChain",
+                        "Zkfair",
+                        "Cyber",
+                        "Blast"
+                    ],
+                    "change_1d": -1.0179532084163776,
+                    "change_7d": 6.938177627673224,
+                    "change_1m": -2.8722863520911632,
+                    "mcaptvl": null,
+                    "category": "Dexes",
+                    "defillamaId": "3989",
+                    "extraTvl": {},
+                    "name": "AbstraDEX",
+                    "tvl": 310751.44937606715,
+                    "tvlPrevDay": 313947.2858450631,
+                    "tvlPrevWeek": 290589.8120482386,
+                    "tvlPrevMonth": 319941.07315503317,
+                    "mcap": null,
+                    "strikeTvl": false
+                },
+                {
+                    "symbol": "D8X",
+                    "chains": [
+                        "Arbitrum",
+                        "X Layer",
+                        "Polygon zkEVM"
+                    ],
+                    "change_1d": -0.10719730086672466,
+                    "change_7d": 0.3884108304031013,
+                    "change_1m": -1.3485489839598086,
+                    "mcaptvl": null,
+                    "category": "Derivatives",
+                    "defillamaId": "3924",
+                    "extraTvl": {},
+                    "name": "D8X",
+                    "tvl": 226727.44344863127,
+                    "tvlPrevDay": 226970.74996635216,
+                    "tvlPrevWeek": 225850.21674629976,
+                    "tvlPrevMonth": 229826.77002061188,
+                    "mcap": null,
+                    "strikeTvl": false
+                },
+                {
+                    "symbol": "XY",
+                    "chains": [
+                        "Ethereum",
+                        "ZKsync Era",
+                        "Avalanche",
+                        "Scroll",
+                        "Taiko",
+                        "Blast",
+                        "Linea",
+                        "Optimism",
+                        "Cronos",
+                        "Polygon",
+                        "BSC",
+                        "Polygon zkEVM",
+                        "Arbitrum",
+                        "Mantle",
+                        "X Layer",
+                        "KCC",
+                        "Astar",
+                        "Kaia",
+                        "ThunderCore",
+                        "Base",
+                        "Moonriver",
+                        "WEMIX3.0",
+                        "Fantom",
+                        "OXFUN"
+                    ],
+                    "change_1d": -2.0493044382791683,
+                    "change_7d": 25.916018641403515,
+                    "change_1m": -16.106525300448794,
+                    "mcaptvl": 13.76,
+                    "category": "Cross Chain",
+                    "defillamaId": "1885",
+                    "extraTvl": {},
+                    "name": "XY Finance",
+                    "tvl": 118078.93583308446,
+                    "tvlPrevDay": 120549.35920151827,
+                    "tvlPrevWeek": 93775.94455981148,
+                    "tvlPrevMonth": 140748.65328437294,
+                    "mcap": 1624813.8115780847,
+                    "strikeTvl": false
+                },
+                {
+                    "symbol": "IZI",
+                    "chains": [
+                        "Linea",
+                        "Scroll",
+                        "Taiko",
+                        "Mode",
+                        "CORE",
+                        "ZKsync Era",
+                        "Manta",
+                        "Kroma",
+                        "ZetaChain",
+                        "BOB",
+                        "BSC",
+                        "Mantle",
+                        "Base",
+                        "Ultron",
+                        "X Layer",
+                        "zkLink Nova",
+                        "Zkfair",
+                        "Arbitrum",
+                        "Blast",
+                        "OntologyEVM",
+                        "Aurora",
+                        "Meter",
+                        "Polygon",
+                        "Ethereum",
+                        "Cronos"
+                    ],
+                    "change_1d": -0.7342917703679513,
+                    "change_7d": 4.423671407874993,
+                    "change_1m": -4.811701519933822,
+                    "mcaptvl": null,
+                    "category": "Dexes",
+                    "parentProtocol": "parent#izumi-finance",
+                    "defillamaId": "1883",
+                    "extraTvl": {},
+                    "name": "iZiSwap",
+                    "tvl": 117595.69056162074,
+                    "tvlPrevDay": 118465.57351868766,
+                    "tvlPrevWeek": 112614.01651192317,
+                    "tvlPrevMonth": 123540.0699869081,
+                    "mcap": null,
+                    "strikeTvl": false
+                },
+                {
+                    "symbol": "-",
+                    "chains": [
+                        "X Layer"
+                    ],
+                    "change_1d": -0.6383027915625892,
+                    "change_7d": 2.67461378414184,
+                    "change_1m": -3.6913151407818234,
+                    "mcaptvl": null,
+                    "category": "Dexes",
+                    "defillamaId": "4510",
+                    "extraTvl": {},
+                    "name": "Revoswap",
+                    "tvl": 108730.88536720118,
+                    "tvlPrevDay": 109429.37612982739,
+                    "tvlPrevWeek": 105898.50924181877,
+                    "tvlPrevMonth": 112898.31807602968,
+                    "mcap": null,
+                    "strikeTvl": false
+                },
+                {
+                    "symbol": "-",
+                    "chains": [
+                        "Merlin",
+                        "BSC",
+                        "BSquared",
+                        "Ethereum",
+                        "Arbitrum",
+                        "Linea",
+                        "Manta",
+                        "Scroll",
+                        "Polygon",
+                        "Optimism",
+                        "CORE",
+                        "Blast",
+                        "Mode",
+                        "zkLink Nova",
+                        "X Layer",
+                        "Mantle",
+                        "Bitlayer",
+                        "ZKsync Era",
+                        "Avalanche",
+                        "Base",
+                        "Tron",
+                        "Polygon zkEVM",
+                        "Aurora",
+                        "Conflux",
+                        "BounceBit",
+                        "Zkfair",
+                        "SKALE Europa",
+                        "Metis",
+                        "Moonbeam",
+                        "inEVM",
+                        "Cronos",
+                        "opBNB",
+                        "ZetaChain",
+                        "Gnosis",
+                        "Taiko",
+                        "Fantom",
+                        "EOS EVM",
+                        "Kava",
+                        "Ancient8",
+                        "Celo",
+                        "MAP Protocol",
+                        "BEVM",
+                        "Moonriver"
+                    ],
+                    "change_1d": 0.6684234020077611,
+                    "change_7d": 7.836859643383802,
+                    "change_1m": 4.952853760489591,
+                    "mcaptvl": null,
+                    "category": "Cross Chain",
+                    "defillamaId": "4536",
+                    "extraTvl": {},
+                    "name": "Meson",
+                    "tvl": 98479.90477515501,
+                    "tvlPrevDay": 97826.01281226671,
+                    "tvlPrevWeek": 91323.04584984001,
+                    "tvlPrevMonth": 93832.51740814371,
+                    "mcap": null,
+                    "strikeTvl": false
+                },
+                {
+                    "symbol": "ZERO",
+                    "chains": [
+                        "Linea",
+                        "Blast",
+                        "ZKsync Era",
+                        "Ethereum",
+                        "Manta",
+                        "X Layer"
+                    ],
+                    "change_1d": -0.9697769566033514,
+                    "change_7d": 2.6610073510460284,
+                    "change_1m": -23.871221034643263,
+                    "mcaptvl": 130.76,
+                    "category": "Lending",
+                    "defillamaId": "3243",
+                    "extraTvl": {
+                        "borrowed": {
+                            "tvl": 61192.52433406799,
+                            "tvlPrevDay": 61664.93497479286,
+                            "tvlPrevWeek": 59711.39849258283,
+                            "tvlPrevMonth": 78634.09891497702
+                        }
+                    },
+                    "name": "ZeroLend",
+                    "tvl": 45980.18044640776,
+                    "tvlPrevDay": 46430.45227340193,
+                    "tvlPrevWeek": 44788.35892305245,
+                    "tvlPrevMonth": 60397.895607036546,
+                    "mcap": 6012314.836420397,
+                    "strikeTvl": false
+                },
+                {
+                    "name": "DackieSwap",
+                    "logo": "https://icons.llama.fi/dackieswap.jpg",
+                    "url": "https://dackieswap.xyz",
+                    "chains": [
+                        "Base",
+                        "Optimism",
+                        "Arbitrum",
+                        "X Layer",
+                        "Mode",
+                        "inEVM",
+                        "Blast"
+                    ],
+                    "tvl": 14615.092334433288,
+                    "tvlPrevDay": 14137.464465704687,
+                    "tvlPrevWeek": 8679.787072070116,
+                    "tvlPrevMonth": 7279.435522362599,
+                    "change_1d": 3.3784549548276708,
+                    "change_7d": 68.38077032398459,
+                    "change_1m": 100.77233034807955,
+                    "fees_24h": null,
+                    "fees_7d": null,
+                    "fees_30d": null,
+                    "revenue_24h": null,
+                    "revenue_7d": null,
+                    "revenue_30d": null,
+                    "holderRevenue_24h": null,
+                    "holdersRevenue30d": null,
+                    "userFees_24h": null,
+                    "cumulativeFees": null,
+                    "treasuryRevenue_24h": null,
+                    "supplySideRevenue_24h": null,
+                    "volume_24h": null,
+                    "volume_7d": null,
+                    "cumulativeVolume": null,
+                    "pf": null,
+                    "ps": null,
+                    "mcap": 0,
+                    "mcaptvl": 24.88,
+                    "extraTvl": {},
+                    "symbol": null,
+                    "category": "Dexes",
+                    "subRows": [
+                        {
+                            "symbol": "DACKIE",
+                            "chains": [
+                                "Base",
+                                "Optimism",
+                                "Arbitrum",
+                                "X Layer",
+                                "Mode",
+                                "inEVM",
+                                "Blast"
+                            ],
+                            "change_1d": 3.3905980518675736,
+                            "change_7d": 68.71691680540404,
+                            "change_1m": 101.4717834081373,
+                            "mcaptvl": null,
+                            "category": "Dexes",
+                            "parentProtocol": "parent#dackieswap",
+                            "defillamaId": "3345",
+                            "extraTvl": {},
+                            "name": "DackieSwap V3",
+                            "tvl": 14570.616740993093,
+                            "tvlPrevDay": 14092.78698018896,
+                            "tvlPrevWeek": 8636.132651593354,
+                            "tvlPrevMonth": 7232.088034618845,
+                            "mcap": null,
+                            "strikeTvl": false
+                        },
+                        {
+                            "symbol": "DACKIE",
+                            "chains": [
+                                "Base",
+                                "Arbitrum",
+                                "inEVM",
+                                "Blast",
+                                "X Layer",
+                                "Optimism",
+                                "Mode"
+                            ],
+                            "change_1d": -0.45188773092947543,
+                            "change_7d": 1.8810763136109823,
+                            "change_1m": -6.065568503026593,
+                            "mcaptvl": null,
+                            "category": "Dexes",
+                            "parentProtocol": "parent#dackieswap",
+                            "defillamaId": "3515",
+                            "extraTvl": {},
+                            "name": "DackieSwap V2",
+                            "tvl": 44.475593440193975,
+                            "tvlPrevDay": 44.67748551572734,
+                            "tvlPrevWeek": 43.65442047676147,
+                            "tvlPrevMonth": 47.34748774375346,
+                            "mcap": null,
+                            "strikeTvl": false
+                        }
+                    ],
+                    "chainTvls": {},
+                    "strikeTvl": false,
+                    "parentExcluded": false,
+                    "isParentProtocol": true
+                },
+                {
+                    "name": "Satori Finance",
+                    "logo": "https://icons.llama.fi/satori-finance.jpg",
+                    "url": "https://satori.finance",
+                    "chains": [
+                        "ZKsync Era",
+                        "Linea",
+                        "Scroll",
+                        "Polygon zkEVM",
+                        "Base",
+                        "Arbitrum",
+                        "X Layer"
+                    ],
+                    "tvl": 10122.391403218086,
+                    "tvlPrevDay": 10122.187561127575,
+                    "tvlPrevWeek": 10065.62693001272,
+                    "tvlPrevMonth": 10177.608485186005,
+                    "change_1d": 0.0020138145956996277,
+                    "change_7d": 0.5639437424022753,
+                    "change_1m": -0.5425349388148563,
+                    "fees_24h": null,
+                    "fees_7d": null,
+                    "fees_30d": null,
+                    "revenue_24h": null,
+                    "revenue_7d": null,
+                    "revenue_30d": null,
+                    "holderRevenue_24h": null,
+                    "holdersRevenue30d": null,
+                    "userFees_24h": null,
+                    "cumulativeFees": null,
+                    "treasuryRevenue_24h": null,
+                    "supplySideRevenue_24h": null,
+                    "volume_24h": null,
+                    "volume_7d": null,
+                    "cumulativeVolume": null,
+                    "pf": null,
+                    "ps": null,
+                    "mcap": 0,
+                    "mcaptvl": null,
+                    "extraTvl": {},
+                    "symbol": null,
+                    "category": null,
+                    "subRows": [
+                        {
+                            "symbol": "-",
+                            "chains": [
+                                "ZKsync Era",
+                                "Linea",
+                                "Scroll",
+                                "Polygon zkEVM",
+                                "Base",
+                                "Arbitrum",
+                                "X Layer"
+                            ],
+                            "change_1d": 0.0026698309107133053,
+                            "change_7d": 0.5623866397810537,
+                            "change_1m": -0.5408564401678597,
+                            "mcaptvl": null,
+                            "category": "Derivatives",
+                            "parentProtocol": "parent#satori-finance",
+                            "defillamaId": "2982",
+                            "extraTvl": {},
+                            "name": "Satori Perp",
+                            "tvl": 10113.27,
+                            "tvlPrevDay": 10113,
+                            "tvlPrevWeek": 10056.7123931,
+                            "tvlPrevMonth": 10168.265720000001,
+                            "mcap": null,
+                            "strikeTvl": false
+                        },
+                        {
+                            "symbol": "-",
+                            "chains": [
+                                "Linea",
+                                "Base",
+                                "X Layer"
+                            ],
+                            "change_1d": -0.7200812987577364,
+                            "change_7d": 2.3205502135350224,
+                            "change_1m": -2.369341019620872,
+                            "mcaptvl": null,
+                            "category": "Dexes",
+                            "parentProtocol": "parent#satori-finance",
+                            "defillamaId": "4172",
+                            "extraTvl": {},
+                            "name": "Satori Spots",
+                            "tvl": 9.121403218084552,
+                            "tvlPrevDay": 9.187561127576163,
+                            "tvlPrevWeek": 8.914536912720752,
+                            "tvlPrevMonth": 9.342765186003389,
+                            "mcap": null,
+                            "strikeTvl": false
+                        }
+                    ],
+                    "chainTvls": {},
+                    "strikeTvl": false,
+                    "parentExcluded": false,
+                    "isParentProtocol": true
+                },
+                {
+                    "symbol": "DYOR",
+                    "chains": [
+                        "Blast",
+                        "Mode",
+                        "ZetaChain",
+                        "X Layer",
+                        "Degen",
+                        "Merlin",
+                        "BOB"
+                    ],
+                    "change_1d": -0.9148665819567876,
+                    "change_7d": 4.586909871244642,
+                    "change_1m": -31.740097619778986,
+                    "mcaptvl": null,
+                    "category": "Dexes",
+                    "defillamaId": "3837",
+                    "extraTvl": {},
+                    "name": "DyorSwap",
+                    "tvl": 7174.0346995414175,
+                    "tvlPrevDay": 7240.273542625154,
+                    "tvlPrevWeek": 6859.400194893666,
+                    "tvlPrevMonth": 10509.881276390699,
+                    "mcap": null,
+                    "strikeTvl": false
+                },
+                {
+                    "symbol": "-",
+                    "chains": [
+                        "Ethereum",
+                        "Linea",
+                        "Scroll",
+                        "Arbitrum",
+                        "Blast",
+                        "Mode",
+                        "Optimism",
+                        "Base",
+                        "ZKsync Era",
+                        "Manta",
+                        "X Layer"
+                    ],
+                    "change_1d": -0.14552734139295034,
+                    "change_7d": 4.361790350292096,
+                    "change_1m": null,
+                    "mcaptvl": null,
+                    "category": "Liquid Restaking",
+                    "defillamaId": "3946",
+                    "extraTvl": {
+                        "doublecounted": {
+                            "tvl": 5717.334026618625,
+                            "tvlPrevDay": 5725.666436761072,
+                            "tvlPrevWeek": 5478.37863592441,
+                            "tvlPrevMonth": null
+                        }
+                    },
+                    "name": "Kelp DAO",
+                    "tvl": 5717.334026618625,
+                    "tvlPrevDay": 5725.666436761072,
+                    "tvlPrevWeek": 5478.37863592441,
+                    "tvlPrevMonth": null,
+                    "mcap": null,
+                    "strikeTvl": true
+                },
+                {
+                    "name": "StationDEX",
+                    "logo": "https://icons.llama.fi/stationdex.jpg",
+                    "url": "https://stationdex.com/",
+                    "chains": [
+                        "X Layer"
+                    ],
+                    "tvl": 748.2330829299643,
+                    "tvlPrevDay": 751.192873282333,
+                    "tvlPrevWeek": 915.915259502031,
+                    "tvlPrevMonth": 1006.8450290328533,
+                    "change_1d": -0.3940120384044548,
+                    "change_7d": -18.307608136503024,
+                    "change_1m": -25.68537745588358,
+                    "fees_24h": null,
+                    "fees_7d": null,
+                    "fees_30d": null,
+                    "revenue_24h": null,
+                    "revenue_7d": null,
+                    "revenue_30d": null,
+                    "holderRevenue_24h": null,
+                    "holdersRevenue30d": null,
+                    "userFees_24h": null,
+                    "cumulativeFees": null,
+                    "treasuryRevenue_24h": null,
+                    "supplySideRevenue_24h": null,
+                    "volume_24h": null,
+                    "volume_7d": null,
+                    "cumulativeVolume": null,
+                    "pf": null,
+                    "ps": null,
+                    "mcap": 0,
+                    "mcaptvl": null,
+                    "extraTvl": {},
+                    "symbol": null,
+                    "category": "Dexes",
+                    "subRows": [
+                        {
+                            "symbol": "-",
+                            "chains": [
+                                "X Layer"
+                            ],
+                            "change_1d": -0.34111719647210115,
+                            "change_7d": -21.506592740140924,
+                            "change_1m": -28.315529434909354,
+                            "mcaptvl": null,
+                            "category": "Dexes",
+                            "parentProtocol": "parent#stationdex",
+                            "defillamaId": "4508",
+                            "extraTvl": {},
+                            "name": "StationDEX V3",
+                            "tvl": 628.9242248955486,
+                            "tvlPrevDay": 631.0769368501137,
+                            "tvlPrevWeek": 801.244648245988,
+                            "tvlPrevMonth": 877.3507287390445,
+                            "mcap": null,
+                            "strikeTvl": false
+                        },
+                        {
+                            "symbol": "-",
+                            "chains": [
+                                "X Layer"
+                            ],
+                            "change_1d": -0.6719161684752988,
+                            "change_7d": 4.044843510963947,
+                            "change_1m": -7.865552565853055,
+                            "mcaptvl": null,
+                            "category": "Dexes",
+                            "parentProtocol": "parent#stationdex",
+                            "defillamaId": "4507",
+                            "extraTvl": {},
+                            "name": "StationDEX V2",
+                            "tvl": 119.30885803441569,
+                            "tvlPrevDay": 120.11593643221929,
+                            "tvlPrevWeek": 114.67061125604295,
+                            "tvlPrevMonth": 129.49430029380883,
+                            "mcap": null,
+                            "strikeTvl": false
+                        }
+                    ],
+                    "chainTvls": {},
+                    "strikeTvl": false,
+                    "parentExcluded": false,
+                    "isParentProtocol": true
+                },
+                {
+                    "symbol": "-",
+                    "chains": [
+                        "Arbitrum",
+                        "Mantle",
+                        "Polygon zkEVM",
+                        "X Layer"
+                    ],
+                    "change_1d": -0.5825835373961652,
+                    "change_7d": 6.869242949843092,
+                    "change_1m": -17.19688863286667,
+                    "mcaptvl": null,
+                    "category": "Lending",
+                    "defillamaId": "2187",
+                    "extraTvl": {
+                        "borrowed": {
+                            "tvl": 140.81026743927345,
+                            "tvlPrevDay": 141.03304063148897,
+                            "tvlPrevWeek": 139.47484600818962,
+                            "tvlPrevMonth": 142.3548250567453
+                        }
+                    },
+                    "name": "Dolomite",
+                    "tvl": 556.2074260989936,
+                    "tvlPrevDay": 559.4667875001687,
+                    "tvlPrevWeek": 520.4560365043834,
+                    "tvlPrevMonth": 671.7228578922295,
+                    "mcap": null,
+                    "strikeTvl": false
+                },
+                {
+                    "symbol": "-",
+                    "chains": [
+                        "BSC",
+                        "Arbitrum",
+                        "Polygon",
+                        "Linea",
+                        "Base",
+                        "Ethereum",
+                        "Optimism",
+                        "ZKsync Era",
+                        "Avalanche",
+                        "X Layer",
+                        "Polygon zkEVM",
+                        "Mantle",
+                        "Moonbeam",
+                        "Astar zkEVM"
+                    ],
+                    "change_1d": 51.39566199911133,
+                    "change_7d": 3.051525844990249,
+                    "change_1m": 45.259987827144634,
+                    "mcaptvl": null,
+                    "category": "Liquidity manager",
+                    "defillamaId": "2334",
+                    "extraTvl": {
+                        "doublecounted": {
+                            "tvl": 190.95730912706452,
+                            "tvlPrevDay": 126.13129504872168,
+                            "tvlPrevWeek": 185.3027478839099,
+                            "tvlPrevMonth": 131.45898742212373
+                        }
+                    },
+                    "name": "DefiEdge",
+                    "tvl": 190.95730912706452,
+                    "tvlPrevDay": 126.13129504872168,
+                    "tvlPrevWeek": 185.3027478839099,
+                    "tvlPrevMonth": 131.45898742212373,
+                    "mcap": null,
+                    "strikeTvl": true
+                },
+                {
+                    "symbol": "-",
+                    "chains": [
+                        "Arbitrum",
+                        "Ethereum",
+                        "Mantle",
+                        "Polygon",
+                        "Optimism",
+                        "Polygon zkEVM",
+                        "Base",
+                        "inEVM",
+                        "X Layer"
+                    ],
+                    "change_1d": -0.15280218930762418,
+                    "change_7d": 0.5983121521841646,
+                    "change_1m": -0.4231536232634634,
+                    "mcaptvl": null,
+                    "category": "Lending",
+                    "parentProtocol": "parent#timeswap",
+                    "defillamaId": "2567",
+                    "extraTvl": {},
+                    "name": "Timeswap V2",
+                    "tvl": 35.13056819977595,
+                    "tvlPrevDay": 35.18433062726765,
+                    "tvlPrevWeek": 34.921627856569565,
+                    "tvlPrevMonth": 35.27985618952406,
+                    "mcap": null,
+                    "strikeTvl": false
+                },
+                {
+                    "symbol": "CGPT",
+                    "chains": [
+                        "BSC",
+                        "Ethereum",
+                        "Arbitrum",
+                        "Polygon",
+                        "X Layer",
+                        "CORE",
+                        "Base",
+                        "ZKsync Era",
+                        "Linea",
+                        "Avalanche"
+                    ],
+                    "change_1d": 0,
+                    "change_7d": 0.02860818194003147,
+                    "change_1m": null,
+                    "mcaptvl": 3620725.7,
+                    "category": "Launchpad",
+                    "defillamaId": "3582",
+                    "extraTvl": {},
+                    "name": "ChainGPT",
+                    "tvl": 21,
+                    "tvlPrevDay": 21,
+                    "tvlPrevWeek": 20.993994,
+                    "tvlPrevMonth": null,
+                    "mcap": 76035239.79301724,
+                    "strikeTvl": false
+                },
+                {
+                    "symbol": "-",
+                    "chains": [
+                        "Arbitrum",
+                        "Polygon",
+                        "Linea",
+                        "Metis",
+                        "Mode",
+                        "Flare",
+                        "Kava",
+                        "Manta",
+                        "Celo",
+                        "Telos",
+                        "Fantom",
+                        "Base",
+                        "Astar",
+                        "BSC",
+                        "Optimism",
+                        "Rootstock",
+                        "Astar zkEVM",
+                        "Blast",
+                        "Evmos",
+                        "Scroll",
+                        "Avalanche",
+                        "ThunderCore",
+                        "zkLink Nova",
+                        "Polygon zkEVM",
+                        "Mantle",
+                        "X Layer"
+                    ],
+                    "change_1d": -0.0750724720511349,
+                    "change_7d": 26.308860274044843,
+                    "change_1m": 11.546607157641695,
+                    "mcaptvl": null,
+                    "category": "Liquidity manager",
+                    "defillamaId": "3043",
+                    "extraTvl": {},
+                    "name": "Steer Protocol",
+                    "tvl": 9.950904518975284,
+                    "tvlPrevDay": 9.958380521408964,
+                    "tvlPrevWeek": 7.8782315804175544,
+                    "tvlPrevMonth": 8.920849116380838,
+                    "mcap": null,
+                    "strikeTvl": false
+                },
+                {
+                    "symbol": "GAMMA",
+                    "chains": [
+                        "BSC",
+                        "Arbitrum",
+                        "Linea",
+                        "Polygon",
+                        "Ethereum",
+                        "Metis",
+                        "Polygon zkEVM",
+                        "Optimism",
+                        "Mantle",
+                        "Gnosis",
+                        "Base",
+                        "Manta",
+                        "Rootstock",
+                        "Moonbeam",
+                        "Rollux",
+                        "Immutable zkEVM",
+                        "Taiko",
+                        "Avalanche",
+                        "Scroll",
+                        "Blast",
+                        "Celo",
+                        "IOTA EVM",
+                        "Astar zkEVM",
+                        "X Layer",
+                        "Mode",
+                        "Fantom",
+                        "opBNB",
+                        "Kava"
+                    ],
+                    "change_1d": -0.5049908472667324,
+                    "change_7d": 5.159417735951939,
+                    "change_1m": -7.463900731899353,
+                    "mcaptvl": 5207622.83,
+                    "category": "Liquidity manager",
+                    "defillamaId": "355",
+                    "extraTvl": {
+                        "doublecounted": {
+                            "tvl": 1.0795104888519214,
+                            "tvlPrevDay": 1.0849895869598658,
+                            "tvlPrevWeek": 1.0265466584861642,
+                            "tvlPrevMonth": 1.1665830928579608
+                        }
+                    },
+                    "name": "Gamma",
+                    "tvl": 1.0795104888519214,
+                    "tvlPrevDay": 1.0849895869598658,
+                    "tvlPrevWeek": 1.0265466584861642,
+                    "tvlPrevMonth": 1.1665830928579608,
+                    "mcap": 5621683.465946797,
+                    "strikeTvl": true
+                }
+            ],
+            "volumeData": {
+                "totalVolume24h": 0,
+                "totalVolume7d": 0,
+                "weeklyChange": null,
+                "dexsDominance": null
+            },
+            "feesAndRevenueData": {
+                "totalFees24h": null,
+                "totalRevenue24h": null
+            },
+            "stablecoinsData": {
+                "totalMcapCurrent": null,
+                "change7d": null,
+                "topToken": {
+                    "symbol": "USDT",
+                    "mcap": 0
+                },
+                "dominance": null
+            },
+            "devMetricsData": null,
+            "inflowsData": {
+                "netInflows": 48688.119303764455
+            },
+            "userData": {
+                "activeUsers": null,
+                "newUsers": null,
+                "transactions": null
+            },
+            "raisesChart": null,
+            "noContext": false,
+            "chart": [
+                [
+                    "1713744000",
+                    403146
+                ],
+                [
+                    "1713830400",
+                    1694467
+                ],
+                [
+                    "1713916800",
+                    4121371
+                ],
+                [
+                    "1714003200",
+                    5358902
+                ],
+                [
+                    "1714089600",
+                    5657370
+                ],
+                [
+                    "1714176000",
+                    6044350
+                ],
+                [
+                    "1714262400",
+                    6344641
+                ],
+                [
+                    "1714348800",
+                    6463760
+                ],
+                [
+                    "1714435200",
+                    6633167
+                ],
+                [
+                    "1714521600",
+                    7189349
+                ],
+                [
+                    "1714608000",
+                    6996111
+                ],
+                [
+                    "1714694400",
+                    7362281
+                ],
+                [
+                    "1714780800",
+                    7775010
+                ],
+                [
+                    "1714867200",
+                    8155838
+                ],
+                [
+                    "1714953600",
+                    7873483
+                ],
+                [
+                    "1715040000",
+                    7519968
+                ],
+                [
+                    "1715126400",
+                    7061052
+                ],
+                [
+                    "1715212800",
+                    7064741
+                ],
+                [
+                    "1715299200",
+                    7272906
+                ],
+                [
+                    "1715385600",
+                    7082483
+                ],
+                [
+                    "1715472000",
+                    6894281
+                ],
+                [
+                    "1715558400",
+                    6909495
+                ],
+                [
+                    "1715644800",
+                    6741173
+                ],
+                [
+                    "1715731200",
+                    6656805
+                ],
+                [
+                    "1715817600",
+                    6920308
+                ],
+                [
+                    "1715904000",
+                    6859356
+                ],
+                [
+                    "1715990400",
+                    6929190
+                ],
+                [
+                    "1716076800",
+                    6873391
+                ],
+                [
+                    "1716163200",
+                    6791646
+                ],
+                [
+                    "1716249600",
+                    7118813
+                ],
+                [
+                    "1716336000",
+                    6804271
+                ],
+                [
+                    "1716422400",
+                    6401756
+                ],
+                [
+                    "1716508800",
+                    6311606
+                ],
+                [
+                    "1716595200",
+                    6375008
+                ],
+                [
+                    "1716681600",
+                    6529474
+                ],
+                [
+                    "1716768000",
+                    6405804
+                ],
+                [
+                    "1716854400",
+                    7317234
+                ],
+                [
+                    "1716940800",
+                    8060414
+                ],
+                [
+                    "1717027200",
+                    7768150
+                ],
+                [
+                    "1717113600",
+                    8754560
+                ],
+                [
+                    "1717200000",
+                    8689274
+                ],
+                [
+                    "1717286400",
+                    8652049
+                ],
+                [
+                    "1717372800",
+                    8649873
+                ],
+                [
+                    "1717459200",
+                    8655345
+                ],
+                [
+                    "1717545600",
+                    9124548
+                ],
+                [
+                    "1717632000",
+                    9290413
+                ],
+                [
+                    "1717718400",
+                    10340009
+                ],
+                [
+                    "1717804800",
+                    10296768
+                ],
+                [
+                    "1717891200",
+                    9710820
+                ],
+                [
+                    "1717977600",
+                    9693574
+                ],
+                [
+                    "1718064000",
+                    10306221
+                ],
+                [
+                    "1718150400",
+                    10331589
+                ],
+                [
+                    "1718236800",
+                    10489118
+                ],
+                [
+                    "1718323200",
+                    11408006
+                ],
+                [
+                    "1718409600",
+                    11364731
+                ],
+                [
+                    "1718496000",
+                    11369314
+                ],
+                [
+                    "1718582400",
+                    11030132
+                ],
+                [
+                    "1718668800",
+                    10886530
+                ],
+                [
+                    "1718755200",
+                    11394117
+                ],
+                [
+                    "1718841600",
+                    11426315
+                ],
+                [
+                    "1718928000",
+                    10966010
+                ],
+                [
+                    "1719014400",
+                    10979953
+                ],
+                [
+                    "1719100800",
+                    10980005
+                ],
+                [
+                    "1719187200",
+                    10819368
+                ],
+                [
+                    "1719273600",
+                    10886091
+                ],
+                [
+                    "1719360000",
+                    10889833
+                ],
+                [
+                    "1719446400",
+                    10880486
+                ],
+                [
+                    "1719532800",
+                    11369573
+                ],
+                [
+                    "1719619200",
+                    11329810
+                ],
+                [
+                    "1719705600",
+                    11326304
+                ],
+                [
+                    "1719792000",
+                    11385962
+                ],
+                [
+                    "1719878400",
+                    11380303
+                ],
+                [
+                    "1719964800",
+                    11206373
+                ],
+                [
+                    "1720051200",
+                    11512322
+                ],
+                [
+                    "1720137600",
+                    11005530
+                ],
+                [
+                    "1720224000",
+                    11058687
+                ],
+                [
+                    "1720310400",
+                    11088784
+                ],
+                [
+                    "1720396800",
+                    10820569
+                ],
+                [
+                    "1720483200",
+                    11047081
+                ],
+                [
+                    "1720569600",
+                    11070215
+                ],
+                [
+                    "1720656000",
+                    10987949
+                ],
+                [
+                    "1720742400",
+                    11436787
+                ],
+                [
+                    "1720828800",
+                    11390511
+                ],
+                [
+                    "1720915200",
+                    11482568
+                ],
+                [
+                    "1721001600",
+                    11601717
+                ],
+                [
+                    "1721088000",
+                    11683222
+                ],
+                [
+                    "1721174400",
+                    11788101
+                ],
+                [
+                    "1721260800",
+                    10440876
+                ],
+                [
+                    "1721347200",
+                    10265826
+                ],
+                [
+                    "1721433600",
+                    10332039
+                ],
+                [
+                    "1721520000",
+                    10336984
+                ],
+                [
+                    "1721606400",
+                    10320011
+                ],
+                [
+                    "1721692800",
+                    10272706
+                ],
+                [
+                    "1721779200",
+                    10204859
+                ],
+                [
+                    "1721865600",
+                    10078802
+                ],
+                [
+                    "1721952000",
+                    10138667
+                ],
+                [
+                    "1722038400",
+                    10175854
+                ],
+                [
+                    "1722124800",
+                    10078986
+                ],
+                [
+                    "1722211200",
+                    10163246
+                ],
+                [
+                    "1722297600",
+                    10080151
+                ],
+                [
+                    "1722384000",
+                    10051784
+                ],
+                [
+                    "1722470400",
+                    9969046
+                ],
+                [
+                    "1722556800",
+                    9960431
+                ],
+                [
+                    "1722643200",
+                    9818348
+                ],
+                [
+                    "1722729600",
+                    9783447
+                ],
+                [
+                    "1722816000",
+                    8949819
+                ],
+                [
+                    "1722902400",
+                    9161296
+                ],
+                [
+                    "1722988800",
+                    9238810
+                ],
+                [
+                    "1723075200",
+                    9194656
+                ],
+                [
+                    "1723161600",
+                    9351144
+                ],
+                [
+                    "1723248000",
+                    9361836
+                ],
+                [
+                    "1723334400",
+                    9408784
+                ],
+                [
+                    "1723420800",
+                    9277466
+                ],
+                [
+                    "1723507200",
+                    9332666
+                ],
+                [
+                    "1723593600",
+                    9418522
+                ],
+                [
+                    "1723680000",
+                    9360713
+                ],
+                [
+                    "1723766400",
+                    9328229
+                ],
+                [
+                    "1723852800",
+                    9359662
+                ],
+                [
+                    "1723939200",
+                    9346632
+                ],
+                [
+                    "1724025600",
+                    9347779
+                ],
+                [
+                    "1724112000",
+                    9388228
+                ],
+                [
+                    "1724198400",
+                    9367338
+                ],
+                [
+                    "1724284800",
+                    9417267
+                ],
+                [
+                    "1724371200",
+                    9404039
+                ],
+                [
+                    "1724457600",
+                    9574501
+                ],
+                [
+                    "1724544000",
+                    9553902
+                ]
+            ],
+            "extraTvlCharts": {
+                "staking": [],
+                "borrowed": [
+                    [
+                        "1714003200",
+                        52
+                    ],
+                    [
+                        "1714089600",
+                        1897873
+                    ],
+                    [
+                        "1714176000",
+                        2701472
+                    ],
+                    [
+                        "1714262400",
+                        2859628
+                    ],
+                    [
+                        "1714348800",
+                        3788502
+                    ],
+                    [
+                        "1714435200",
+                        4285792
+                    ],
+                    [
+                        "1714521600",
+                        5444901
+                    ],
+                    [
+                        "1714608000",
+                        5536648
+                    ],
+                    [
+                        "1714694400",
+                        5774012
+                    ],
+                    [
+                        "1714780800",
+                        6634937
+                    ],
+                    [
+                        "1714867200",
+                        6146536
+                    ],
+                    [
+                        "1714953600",
+                        4737117
+                    ],
+                    [
+                        "1715040000",
+                        977613
+                    ],
+                    [
+                        "1715126400",
+                        953129
+                    ],
+                    [
+                        "1715212800",
+                        843357
+                    ],
+                    [
+                        "1715299200",
+                        831321
+                    ],
+                    [
+                        "1715385600",
+                        709801
+                    ],
+                    [
+                        "1715472000",
+                        464196
+                    ],
+                    [
+                        "1715558400",
+                        454757
+                    ],
+                    [
+                        "1715644800",
+                        453504
+                    ],
+                    [
+                        "1715731200",
+                        448468
+                    ],
+                    [
+                        "1715817600",
+                        450839
+                    ],
+                    [
+                        "1715904000",
+                        456315
+                    ],
+                    [
+                        "1715990400",
+                        459631
+                    ],
+                    [
+                        "1716076800",
+                        435579
+                    ],
+                    [
+                        "1716163200",
+                        362258
+                    ],
+                    [
+                        "1716249600",
+                        378059
+                    ],
+                    [
+                        "1716336000",
+                        185515
+                    ],
+                    [
+                        "1716422400",
+                        116535
+                    ],
+                    [
+                        "1716508800",
+                        84027
+                    ],
+                    [
+                        "1716595200",
+                        79162
+                    ],
+                    [
+                        "1716681600",
+                        79315
+                    ],
+                    [
+                        "1716768000",
+                        78648
+                    ],
+                    [
+                        "1716854400",
+                        78706
+                    ],
+                    [
+                        "1716940800",
+                        77700
+                    ],
+                    [
+                        "1717027200",
+                        76277
+                    ],
+                    [
+                        "1717113600",
+                        73139
+                    ],
+                    [
+                        "1717200000",
+                        71780
+                    ],
+                    [
+                        "1717286400",
+                        71270
+                    ],
+                    [
+                        "1717372800",
+                        70871
+                    ],
+                    [
+                        "1717459200",
+                        68221
+                    ],
+                    [
+                        "1717545600",
+                        68590
+                    ],
+                    [
+                        "1717632000",
+                        68515
+                    ],
+                    [
+                        "1717718400",
+                        70121
+                    ],
+                    [
+                        "1717804800",
+                        67256
+                    ],
+                    [
+                        "1717891200",
+                        66821
+                    ],
+                    [
+                        "1717977600",
+                        65996
+                    ],
+                    [
+                        "1718064000",
+                        64302
+                    ],
+                    [
+                        "1718150400",
+                        64803
+                    ],
+                    [
+                        "1718236800",
+                        65790
+                    ],
+                    [
+                        "1718323200",
+                        63742
+                    ],
+                    [
+                        "1718409600",
+                        63144
+                    ],
+                    [
+                        "1718496000",
+                        64030
+                    ],
+                    [
+                        "1718582400",
+                        63091
+                    ],
+                    [
+                        "1718668800",
+                        59498
+                    ],
+                    [
+                        "1718755200",
+                        57263
+                    ],
+                    [
+                        "1718841600",
+                        57724
+                    ],
+                    [
+                        "1718928000",
+                        56321
+                    ],
+                    [
+                        "1719014400",
+                        56621
+                    ],
+                    [
+                        "1719100800",
+                        56939
+                    ],
+                    [
+                        "1719187200",
+                        56022
+                    ],
+                    [
+                        "1719273600",
+                        56843
+                    ],
+                    [
+                        "1719360000",
+                        56776
+                    ],
+                    [
+                        "1719446400",
+                        57044
+                    ],
+                    [
+                        "1719532800",
+                        71360
+                    ],
+                    [
+                        "1719619200",
+                        76592
+                    ],
+                    [
+                        "1719705600",
+                        78067
+                    ],
+                    [
+                        "1719792000",
+                        79580
+                    ],
+                    [
+                        "1719878400",
+                        81811
+                    ],
+                    [
+                        "1719964800",
+                        82235
+                    ],
+                    [
+                        "1720051200",
+                        78977
+                    ],
+                    [
+                        "1720137600",
+                        75555
+                    ],
+                    [
+                        "1720224000",
+                        77519
+                    ],
+                    [
+                        "1720310400",
+                        78709
+                    ],
+                    [
+                        "1720396800",
+                        78436
+                    ],
+                    [
+                        "1720483200",
+                        77908
+                    ],
+                    [
+                        "1720569600",
+                        78841
+                    ],
+                    [
+                        "1720656000",
+                        79477
+                    ],
+                    [
+                        "1720742400",
+                        78884
+                    ],
+                    [
+                        "1720828800",
+                        82977
+                    ],
+                    [
+                        "1720915200",
+                        85422
+                    ],
+                    [
+                        "1721001600",
+                        81483
+                    ],
+                    [
+                        "1721088000",
+                        79839
+                    ],
+                    [
+                        "1721174400",
+                        82436
+                    ],
+                    [
+                        "1721260800",
+                        82721
+                    ],
+                    [
+                        "1721347200",
+                        81373
+                    ],
+                    [
+                        "1721433600",
+                        81366
+                    ],
+                    [
+                        "1721520000",
+                        81177
+                    ],
+                    [
+                        "1721606400",
+                        82495
+                    ],
+                    [
+                        "1721692800",
+                        80936
+                    ],
+                    [
+                        "1721779200",
+                        79780
+                    ],
+                    [
+                        "1721865600",
+                        77671
+                    ],
+                    [
+                        "1721952000",
+                        78963
+                    ],
+                    [
+                        "1722038400",
+                        79806
+                    ],
+                    [
+                        "1722124800",
+                        78917
+                    ],
+                    [
+                        "1722211200",
+                        82341
+                    ],
+                    [
+                        "1722297600",
+                        80975
+                    ],
+                    [
+                        "1722384000",
+                        80110
+                    ],
+                    [
+                        "1722470400",
+                        78248
+                    ],
+                    [
+                        "1722556800",
+                        77405
+                    ],
+                    [
+                        "1722643200",
+                        70845
+                    ],
+                    [
+                        "1722729600",
+                        70643
+                    ],
+                    [
+                        "1722816000",
+                        56159
+                    ],
+                    [
+                        "1722902400",
+                        56021
+                    ],
+                    [
+                        "1722988800",
+                        57381
+                    ],
+                    [
+                        "1723075200",
+                        56492
+                    ],
+                    [
+                        "1723161600",
+                        60329
+                    ],
+                    [
+                        "1723248000",
+                        60793
+                    ],
+                    [
+                        "1723334400",
+                        61568
+                    ],
+                    [
+                        "1723420800",
+                        59894
+                    ],
+                    [
+                        "1723507200",
+                        61167
+                    ],
+                    [
+                        "1723593600",
+                        62010
+                    ],
+                    [
+                        "1723680000",
+                        59320
+                    ],
+                    [
+                        "1723766400",
+                        58855
+                    ],
+                    [
+                        "1723852800",
+                        59362
+                    ],
+                    [
+                        "1723939200",
+                        59849
+                    ],
+                    [
+                        "1724025600",
+                        59366
+                    ],
+                    [
+                        "1724112000",
+                        59899
+                    ],
+                    [
+                        "1724198400",
+                        59292
+                    ],
+                    [
+                        "1724284800",
+                        59790
+                    ],
+                    [
+                        "1724371200",
+                        60469
+                    ],
+                    [
+                        "1724457600",
+                        61829
+                    ],
+                    [
+                        "1724544000",
+                        61428
+                    ]
+                ],
+                "pool2": [],
+                "vesting": [],
+                "offers": [],
+                "doublecounted": [
+                    [
+                        "1713916800",
+                        0
+                    ],
+                    [
+                        "1714003200",
+                        0
+                    ],
+                    [
+                        "1714089600",
+                        0
+                    ],
+                    [
+                        "1714176000",
+                        0
+                    ],
+                    [
+                        "1714262400",
+                        0
+                    ],
+                    [
+                        "1714348800",
+                        0
+                    ],
+                    [
+                        "1714435200",
+                        0
+                    ],
+                    [
+                        "1714521600",
+                        0
+                    ],
+                    [
+                        "1714608000",
+                        0
+                    ],
+                    [
+                        "1714694400",
+                        0
+                    ],
+                    [
+                        "1714780800",
+                        0
+                    ],
+                    [
+                        "1714867200",
+                        0
+                    ],
+                    [
+                        "1714953600",
+                        0
+                    ],
+                    [
+                        "1715040000",
+                        0
+                    ],
+                    [
+                        "1715126400",
+                        0
+                    ],
+                    [
+                        "1715212800",
+                        0
+                    ],
+                    [
+                        "1715299200",
+                        0
+                    ],
+                    [
+                        "1715385600",
+                        0
+                    ],
+                    [
+                        "1715472000",
+                        0
+                    ],
+                    [
+                        "1715558400",
+                        0
+                    ],
+                    [
+                        "1715644800",
+                        0
+                    ],
+                    [
+                        "1715731200",
+                        0
+                    ],
+                    [
+                        "1715817600",
+                        0
+                    ],
+                    [
+                        "1715904000",
+                        0
+                    ],
+                    [
+                        "1715990400",
+                        0
+                    ],
+                    [
+                        "1716076800",
+                        0
+                    ],
+                    [
+                        "1716163200",
+                        0
+                    ],
+                    [
+                        "1716249600",
+                        0
+                    ],
+                    [
+                        "1716336000",
+                        0
+                    ],
+                    [
+                        "1716422400",
+                        0
+                    ],
+                    [
+                        "1716508800",
+                        0
+                    ],
+                    [
+                        "1716595200",
+                        0
+                    ],
+                    [
+                        "1716681600",
+                        0
+                    ],
+                    [
+                        "1716768000",
+                        0
+                    ],
+                    [
+                        "1716854400",
+                        0
+                    ],
+                    [
+                        "1716940800",
+                        0
+                    ],
+                    [
+                        "1717027200",
+                        0
+                    ],
+                    [
+                        "1717113600",
+                        0
+                    ],
+                    [
+                        "1717200000",
+                        0
+                    ],
+                    [
+                        "1717286400",
+                        0
+                    ],
+                    [
+                        "1717372800",
+                        0
+                    ],
+                    [
+                        "1717459200",
+                        0
+                    ],
+                    [
+                        "1717545600",
+                        0
+                    ],
+                    [
+                        "1717632000",
+                        0
+                    ],
+                    [
+                        "1717718400",
+                        0
+                    ],
+                    [
+                        "1717804800",
+                        0
+                    ],
+                    [
+                        "1717891200",
+                        0
+                    ],
+                    [
+                        "1717977600",
+                        0
+                    ],
+                    [
+                        "1718064000",
+                        0
+                    ],
+                    [
+                        "1718150400",
+                        0
+                    ],
+                    [
+                        "1718236800",
+                        0
+                    ],
+                    [
+                        "1718323200",
+                        0
+                    ],
+                    [
+                        "1718409600",
+                        0
+                    ],
+                    [
+                        "1718496000",
+                        0
+                    ],
+                    [
+                        "1718582400",
+                        0
+                    ],
+                    [
+                        "1718668800",
+                        0
+                    ],
+                    [
+                        "1718755200",
+                        0
+                    ],
+                    [
+                        "1718841600",
+                        0
+                    ],
+                    [
+                        "1718928000",
+                        0
+                    ],
+                    [
+                        "1719014400",
+                        0
+                    ],
+                    [
+                        "1719100800",
+                        0
+                    ],
+                    [
+                        "1719187200",
+                        0
+                    ],
+                    [
+                        "1719273600",
+                        0
+                    ],
+                    [
+                        "1719360000",
+                        0
+                    ],
+                    [
+                        "1719446400",
+                        0
+                    ],
+                    [
+                        "1719532800",
+                        0
+                    ],
+                    [
+                        "1719619200",
+                        0
+                    ],
+                    [
+                        "1719705600",
+                        0
+                    ],
+                    [
+                        "1719792000",
+                        0
+                    ],
+                    [
+                        "1719878400",
+                        0
+                    ],
+                    [
+                        "1719964800",
+                        0
+                    ],
+                    [
+                        "1720051200",
+                        0
+                    ],
+                    [
+                        "1720137600",
+                        0
+                    ],
+                    [
+                        "1720224000",
+                        0
+                    ],
+                    [
+                        "1720310400",
+                        0
+                    ],
+                    [
+                        "1720396800",
+                        0
+                    ],
+                    [
+                        "1720483200",
+                        0
+                    ],
+                    [
+                        "1720569600",
+                        0
+                    ],
+                    [
+                        "1720656000",
+                        0
+                    ],
+                    [
+                        "1720742400",
+                        0
+                    ],
+                    [
+                        "1720828800",
+                        0
+                    ],
+                    [
+                        "1720915200",
+                        0
+                    ],
+                    [
+                        "1721001600",
+                        0
+                    ],
+                    [
+                        "1721088000",
+                        0
+                    ],
+                    [
+                        "1721174400",
+                        0
+                    ],
+                    [
+                        "1721260800",
+                        0
+                    ],
+                    [
+                        "1721347200",
+                        0
+                    ],
+                    [
+                        "1721433600",
+                        0
+                    ],
+                    [
+                        "1721520000",
+                        0
+                    ],
+                    [
+                        "1721606400",
+                        0
+                    ],
+                    [
+                        "1721692800",
+                        0
+                    ],
+                    [
+                        "1721779200",
+                        140
+                    ],
+                    [
+                        "1721865600",
+                        132
+                    ],
+                    [
+                        "1721952000",
+                        132
+                    ],
+                    [
+                        "1722038400",
+                        132
+                    ],
+                    [
+                        "1722124800",
+                        132
+                    ],
+                    [
+                        "1722211200",
+                        132
+                    ],
+                    [
+                        "1722297600",
+                        132
+                    ],
+                    [
+                        "1722384000",
+                        144
+                    ],
+                    [
+                        "1722470400",
+                        202
+                    ],
+                    [
+                        "1722556800",
+                        139
+                    ],
+                    [
+                        "1722643200",
+                        194
+                    ],
+                    [
+                        "1722729600",
+                        132
+                    ],
+                    [
+                        "1722816000",
+                        111
+                    ],
+                    [
+                        "1722902400",
+                        117
+                    ],
+                    [
+                        "1722988800",
+                        5348
+                    ],
+                    [
+                        "1723075200",
+                        5116
+                    ],
+                    [
+                        "1723161600",
+                        5578
+                    ],
+                    [
+                        "1723248000",
+                        5506
+                    ],
+                    [
+                        "1723334400",
+                        5673
+                    ],
+                    [
+                        "1723420800",
+                        5525
+                    ],
+                    [
+                        "1723507200",
+                        5517
+                    ],
+                    [
+                        "1723593600",
+                        5753
+                    ],
+                    [
+                        "1723680000",
+                        5483
+                    ],
+                    [
+                        "1723766400",
+                        5474
+                    ],
+                    [
+                        "1723852800",
+                        5492
+                    ],
+                    [
+                        "1723939200",
+                        5666
+                    ],
+                    [
+                        "1724025600",
+                        5454
+                    ],
+                    [
+                        "1724112000",
+                        5691
+                    ],
+                    [
+                        "1724198400",
+                        5485
+                    ],
+                    [
+                        "1724284800",
+                        5589
+                    ],
+                    [
+                        "1724371200",
+                        5660
+                    ],
+                    [
+                        "1724457600",
+                        5874
+                    ],
+                    [
+                        "1724544000",
+                        5909
+                    ]
+                ],
+                "liquidstaking": [],
+                "dcAndLsOverlap": []
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/chain/[chain]",
+    "query": {
+        "chain": "X Layer"
+    },
+    "buildId": "0.49044776592675543",
+    "isFallback": false,
+    "dynamicIds": [
+        10094,
+        12768
+    ],
+    "gsp": true,
+    "scriptLoader": []
+}
